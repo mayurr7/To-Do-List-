@@ -1,1 +1,1 @@
-# To-Do-List-
+# To-Do-List-Simple To-Do List application built with HTML, CSS, and JavaScript. Allows users to add, delete, and mark tasks as completed. This repository hosts the source code for a simple yet powerful to-do list application. Whether you're organizing your daily tasks or managing complex projects, this to-do list app provides the essential features to keep you productive and organized.
