@@ -1,0 +1,57 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.js-div
+{
+    display: grid;
+    grid-template-columns: 200px 150px 100px;
+    column-gap: 10px;
+    row-gap: 10px;
+}
+
+.div-2{
+    display: grid;
+    grid-template-columns: 200px 150px 100px;
+    column-gap: 10px;
+    row-gap: 10px;
+    margin-bottom: 10px;
+    
+
+} 
+
+.js-input-btn{
+    font-size: 15px;
+    padding: 5px;
+    border-color: black;
+    align-items: center;
+
+}
+
+.js-date{
+    font-size: 15px;
+    padding: 5px;
+    border-color: black;
+    align-items: center;
+}
+
+.add-btn{
+    background-color: green;
+    color: white;
+    border: none;
+    font-size: 15px;
+    border-radius: 1rem;
+    cursor: pointer;
+}
+
+.delete-js{
+    background-color: darkred;
+    color: white;
+    border: none;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
